@@ -1,3 +1,7 @@
+Redis/
+rethinkdb-2.3.6/
+rethinkdb_data/
+
 .idea/
 
 *.conf
